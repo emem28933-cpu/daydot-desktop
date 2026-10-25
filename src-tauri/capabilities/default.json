@@ -1,0 +1,11 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Daydot 웹 화면이 창 설정(항상 위)만 바꿀 수 있도록 허용",
+  "windows": ["main"],
+  "remote": { "urls": ["https://deluxe-cucurucho-d8c3ad.netlify.app/*", "https://deluxe-cucurucho-d8c3ad.netlify.app"] },
+  "permissions": [
+    "core:default",
+    "core:window:allow-set-always-on-top"
+  ]
+}
