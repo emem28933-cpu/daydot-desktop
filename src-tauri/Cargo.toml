@@ -1,6 +1,6 @@
 [package]
 name = "daydot"
-version = "0.8.0"
+version = "0.9.0"
 description = "Daydot calendar for Windows"
 edition = "2021"
 

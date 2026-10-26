@@ -1,6 +1,6 @@
 # Daydot 윈도우 앱
 
-Daydot 웹앱(https://deluxe-cucurucho-d8c3ad.netlify.app)을 감싼 윈도우 프로그램입니다.
+Daydot 웹앱(https://emem28933-cpu.github.io/daydot)을 감싼 윈도우 프로그램입니다.
 Netlify에 새 버전을 올리면 이 프로그램에도 자동으로 반영됩니다. (exe를 다시 만들 필요 없음)
 
 ## 설치 파일 받기
